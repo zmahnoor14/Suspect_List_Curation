@@ -1,14 +1,14 @@
 # Candidate_Selection
 ## Curation of Suspect List
 ### Libraries used:
-import pubchempy as pcp
-import pandas as pd
-import numpy as np
-import time
-from rdkit import Chem
-import re
-import wget
-import urllib.parse
+import pubchempy as pcp,
+import pandas as pd,
+import numpy as np,
+import time,
+from rdkit import Chem,
+import re,
+import wget,
+import urllib.parse.
 
 ### NAMES VS SMILES
 Read the Suspect list; remove entries with NO SMILES
