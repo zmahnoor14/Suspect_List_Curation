@@ -1,4 +1,4 @@
-# Candidate_Selection
+# Suspect List Curation
 ## Curation of Suspect List
 ### Libraries used:
 import pubchempy as pcp,
